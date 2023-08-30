@@ -1,0 +1,86 @@
+.navbar-brand{
+    font-family: caveat;
+    font-size: 25px;
+}
+.nav-link{
+    font-family: fugaz one;
+    font-size: 20px; 
+    margin-left: 20px; 
+}
+body {
+    position: relative;
+}
+h1{
+    font-family: caveat;
+    font-size: 75px; 
+    padding: 20px;
+}
+h6{
+    font-family: spartan; 
+    font-size: 13px;   
+    color:#bcc6bc;
+}
+h2{
+    font-family: fugaz one; 
+    font-size:50px;   
+    color:rgba(237, 255, 238, 0.9);
+    margin-bottom: -35px;
+}
+h3{
+   font-family: tajawal; 
+    font-size:30px;   
+    color:rgba(237, 255, 238, 0.9);
+    margin-top: 30px;  
+}
+h4{
+    font-family: josefin sans ;
+    font-size: 30px; 
+    color:rgba(237, 255, 238, 0.9);
+    padding: 20px;
+    background-color: rgba(72, 108, 100, 0.41);
+    padding: 80px;
+    margin-bottom: 90px;   
+}
+.row h1{
+    font-family: fugaz one;
+    font-size: 55px; 
+    color:rgba(0, 77, 65, 0.35);
+    padding: 20px;
+}
+p{
+    font-family: tajawal;
+    font-size: 20px;
+     color:rgba(0, 60, 51, 0.94);
+}
+.col-m-4{
+    padding: 10px; 
+    margin-bottom: 20px;  
+}
+.row {
+    padding: 60px;   
+}
+.card{
+    font-family: fugaz one;
+    font-size: 20px;
+    padding: 20px;
+}
+.list-group{
+    margin-bottom: 90px;
+}
+.col-md-4{
+    padding: 60px;
+}
+section{
+    padding: 40px;
+}
+.kategori{
+    background-color: rgba(72, 108, 100, 0.41);
+}
+footer{
+    margin-top: 80px;
+}
+hr{
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0,0,0,0), rgba(57, 57, 57, 0.35), rgba(0,0,0,0));
+}
